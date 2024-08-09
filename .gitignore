@@ -1,0 +1,25 @@
+# IDE directories
+.vscode/
+.idea/
+.project/
+.classpath/
+
+# Visual Studio
+.vscode/
+.vscode/*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv
+venv/
+pip-log.txt
+
+
+# Flask
+instance/
+.webassets-cache
