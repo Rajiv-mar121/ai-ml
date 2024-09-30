@@ -9,4 +9,6 @@ scikit_learn
 streamlit
 numpy
 pandas
+matplotlib
+
 
